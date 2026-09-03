@@ -1,4 +1,4 @@
-# Neil Watcyn-Palmer
+# Neil Watcyn-Palmer Bsc IPMA SAPO SASM
 
 **Founder and designer of governed-data platforms — a family of domain-specific
 "single source of truth" products, each built the same way and held to the same
