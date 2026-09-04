@@ -25,14 +25,14 @@ flowchart LR
 
 ## The portfolio
 
-| Product | Organisation | What it is |
-|---|---|---|
-| **Sportgramme** | [sportgramme](https://github.com/sportgramme) | The single source of truth for world sport — data, media and market intelligence, unified and syndicated globally |
-| **Sustina** | [sustina-nrgpix](https://github.com/sustina-nrgpix) | ESG and sustainability reporting for business — one governed data foundation, audited Scope 1, 2 and 3 disclosure delivered as a service |
-| **WM-OS** | [wm-os-com](https://github.com/wm-os-com) | Continuous political analysis and lobbying monitoring — the public record of Parliament turned into decision-ready intelligence |
-| **OPED** | [oped-wm-os](https://github.com/oped-wm-os) | A knowledge base and analysis of the debate shaping political policy and decision-making globally |
-| **MedTec Compliance** | [MedTec-Compliance](https://github.com/MedTec-Compliance) | Medical-technology regulatory compliance and clinical knowledge, backed by an on-premise, cited-source assistant |
-| **Large Loss Adjustment** | [LargeLoss](https://github.com/LargeLoss) | Knowledge and predictive models for major marine, mining and insurance losses |
+| Product | Git Organisation | Site URL |What it is |
+|---|---|---|---|
+| **Sportgramme** | [sportgramme](https://github.com/sportgramme) |---| The single source of truth for world sport — data, media and market intelligence, unified and syndicated globally |
+| **Sustina** | [sustina-nrgpix](https://github.com/sustina-nrgpix) |---| ESG and sustainability reporting for business — one governed data foundation, audited Scope 1, 2 and 3 disclosure delivered as a service |
+| **WM-OS** | [wm-os-com](https://github.com/wm-os-com) |---| Continuous political analysis and lobbying monitoring — the public record of Parliament turned into decision-ready intelligence |
+| **OPED** | [oped-wm-os](https://github.com/oped-wm-os) |---| A knowledge base and analysis of the debate shaping political policy and decision-making globally |
+| **MedTec Compliance** | [MedTec-Compliance](https://github.com/MedTec-Compliance) |---| Medical-technology regulatory compliance and clinical knowledge, backed by an on-premise, cited-source assistant |
+| **Large Loss Adjustment** | [LargeLoss](https://github.com/LargeLoss) |---| Knowledge and predictive models for major marine, mining and insurance losses |
 
 ## One operating model
 
@@ -54,16 +54,6 @@ Every product is built the same way:
   *As a / I want / So that* briefs with conceptual diagrams — what a thing does
   and why it matters — for reviewers and partners.
 
-## Organisations
-
-| Organisation | Site |
-|---|---|
-| [github.com/sportgramme](https://github.com/sportgramme) | sportgramme.com |
-| [github.com/sustina-nrgpix](https://github.com/sustina-nrgpix) | sustina.nrgpix.com |
-| [github.com/wm-os-com](https://github.com/wm-os-com) | wm-os.com |
-| [github.com/oped-wm-os](https://github.com/oped-wm-os) | oped.wm-os.com |
-| [github.com/MedTec-Compliance](https://github.com/MedTec-Compliance) | — |
-| [github.com/LargeLoss](https://github.com/LargeLoss) | — |
 
 ---
 Copyright © 2024–2026 Neill Watcyn-Palmer. All rights reserved. Proprietary.
