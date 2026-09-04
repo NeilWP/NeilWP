@@ -1,8 +1,8 @@
 # Neil Watcyn-Palmer Bsc IPMA SAPO SASM
 
 **Founder and architect to a family of domain-specific
-"single source of truth" products. Each designed as AI first and held to the same, tigourous
-guardrails on cost security and data protection complinace.**
+"single source of truth" products. Each designed as AI first and held to the same, rigourous
+guardrails on costs, security, accuracy. All enforcing data protection compliance.**
 
 Each venture takes the messy reality of one domain — world sport, corporate
 emissions, the political record, medical-technology compliance, major losses — and
