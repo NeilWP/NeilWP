@@ -1,8 +1,8 @@
 # Neil Watcyn-Palmer Bsc IPMA SAPO SASM
 
-**Founder and designer of governed-data platforms — a family of domain-specific
-"single source of truth" products, each built the same way and held to the same
-standard.**
+**Founder and architect to a family of domain-specific
+"single source of truth" products. Each designed as AI first and held to the same, tigourous
+guardrails on cost security and data protection complinace.**
 
 Each venture takes the messy reality of one domain — world sport, corporate
 emissions, the political record, medical-technology compliance, major losses — and
@@ -25,11 +25,11 @@ flowchart LR
 
 ## The portfolio
 
-| Product | Git Organisation | Site URL |What it is |
-|---|---|---|---|
-| **Sportgramme** | [sportgramme](https://github.com/sportgramme) |---| The single source of truth for world sport — data, media and market intelligence, unified and syndicated globally |
-| **Sustina** | [sustina-nrgpix](https://github.com/sustina-nrgpix) |---| ESG and sustainability reporting for business — one governed data foundation, audited Scope 1, 2 and 3 disclosure delivered as a service |
-| **WM-OS** | [wm-os-com](https://github.com/wm-os-com) |---| Continuous political analysis and lobbying monitoring — the public record of Parliament turned into decision-ready intelligence |
+| Product | Git Organisation | Site URL |What it is |Status|
+|---|---|---|---|---|
+| **Sportgramme** | [sportgramme](https://github.com/sportgramme) |[https://www.sportgramme.com](https://www.sportgramme.com)| The single source of truth for world sport — data, media and market intelligence, unified and syndicated globally |Sponsor opportunities live|
+| **Sustina** | [sustina-nrgpix](https://github.com/sustina-nrgpix) |[sustina-nrgpix](https://sustina.nrgpix.com)](https://sustina.nrgpix.com)| ESG and sustainability reporting for business — one governed data foundation, audited Scope 1, 2 and 3 disclosure delivered as a service |Sponsor opportunities live|
+| **WM-OS** | [wm-os-com](https://github.com/wm-os-com) |[[wm-os-com](https://www.wm-os.com)](https://www.wm-os.com)| Continuous political analysis and lobbying monitoring — the public record of Parliament turned into decision-ready intelligence |
 | **OPED** | [oped-wm-os](https://github.com/oped-wm-os) |---| A knowledge base and analysis of the debate shaping political policy and decision-making globally |
 | **MedTec Compliance** | [MedTec-Compliance](https://github.com/MedTec-Compliance) |---| Medical-technology regulatory compliance and clinical knowledge, backed by an on-premise, cited-source assistant |
 | **Large Loss Adjustment** | [LargeLoss](https://github.com/LargeLoss) |---| Knowledge and predictive models for major marine, mining and insurance losses |
